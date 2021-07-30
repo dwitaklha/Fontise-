@@ -6,9 +6,9 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-4622201711950449/7782531065",
-      "admob_interstitial_id" : "ca-app-pub-4622201711950449/1057340612",
-      "admob_native_id" : "ca-app-pub-4622201711950449/6469449395",
+      "admob_banner_id" : "ca-app-pub-2284112404227748/5623087805",
+      "admob_interstitial_id" : "ca-app-pub-2284112404227748/4310006138",
+      "admob_native_id" : "ca-app-pub-2284112404227748/1683842797",
       "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
       "admob_unit_id" : ""
     },
@@ -16,13 +16,13 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "200248745403261_201016568659812",
-      "facebook_interstitial_id" : "200248745403261_201016811993121",
-      "facebook_native_id" : "200248745403261_201017088659760",
+      "facebook_banner_id" : "200248745403261_202562708505198",
+      "facebook_interstitial_id" : "200248745403261_202563515171784",
+      "facebook_native_id" : "200248745403261_202563791838423",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
